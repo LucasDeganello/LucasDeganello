@@ -13,8 +13,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=FF0000&label=VISITAS" />
-
 </div>
 
 ---
