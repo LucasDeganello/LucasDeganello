@@ -1,83 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=230&section=header&text=Lucas%20Deganello&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFFFFF&height=230&section=header&text=Lucas%20Deganello&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
+<div align="center">
 
-### Desenvolvendo conhecimento. Construindo projetos. Evoluindo todos os dias.
+## Olá, me chamo Lucas 👋
+
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+💻 **Explorando programação, tecnologia e desenvolvimento de software**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-
-</div>
-
-<br>
-
-## Olá, eu sou o Lucas.
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base no desenvolvimento de software.
-
-Sempre tive curiosidade em entender como as coisas funcionam. Ciência, esporte, filosofia e tecnologia são áreas diferentes, mas todas despertam em mim a mesma vontade: **entender, questionar e construir**.
-
-Foi essa curiosidade que me trouxe para a programação.
-
-Ainda estou no início da jornada, e este GitHub acompanha exatamente esse processo: estudos, projetos, experimentos, erros e evolução.
-
----
-
-## Sobre minha jornada
-
-<div align="center">
-
-|              🎓 Formação              |    💻 Foco atual    |       🌱 Próximo passo      |
-| :-----------------------------------: | :-----------------: | :-------------------------: |
-| Análise e Desenvolvimento de Sistemas | Desenvolvimento Web | Desenvolvimento de Software |
-
-</div>
-
-No momento, estou concentrado em fortalecer os fundamentos da programação antes de simplesmente sair acumulando tecnologias.
-
-Meu objetivo é entender não apenas **como escrever código**, mas principalmente **como pensar na solução de um problema**.
-
----
-
-## Tecnologias
-
-### Já utilizo
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
-### Estudando
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-</div>
-
-### Ferramentas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=FF0000&label=VISITAS" />
 
 </div>
 
 ---
 
-## Atualmente aprendendo
+## 🧠 Sobre mim
+
+Sempre tive curiosidade em entender como as coisas funcionam.
+
+Essa curiosidade aparece em diferentes áreas da minha vida — ciência, esporte, filosofia e tecnologia. Foi justamente essa vontade de entender, questionar e construir que me trouxe para a programação.
+
+Ainda estou no começo da minha jornada como desenvolvedor, então este GitHub também é um registro desse processo: estudos, projetos, experimentos, erros e evolução.
+
+Meu objetivo é aprender não apenas linguagens, mas também **lógica, resolução de problemas e desenvolvimento de soluções úteis**.
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Já utilizo
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+
+</div>
+
+### 🌱 Estudando
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF0000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+
+</div>
+
+### 🔧 Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+</div>
+
+---
+
+## 🌱 O que estou aprendendo
 
 ```text
 HTML / CSS
@@ -94,7 +82,7 @@ Python
 
 Java
      │
-     └── Programação orientada a objetos
+     └── Programação Orientada a Objetos
 
 C++
      │
@@ -102,98 +90,121 @@ C++
 
 Git / GitHub
      │
-     └── Versionamento e colaboração
+     └── Versionamento e desenvolvimento
 ```
 
 ---
 
-## GitHub
+## ⚡ Curiosidades
 
-<div align="center">
+* ⚽ **Esportes** — disciplina, competição e trabalho em equipe.
+* 🔬 **Ciência** — curiosidade, investigação e pensamento crítico.
+* 📖 **Filosofia** — questionamento, lógica e busca por compreensão.
+* 💻 **Tecnologia** — transformar conhecimento em soluções.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+No final, todas essas áreas têm algo em comum:
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
+> **A vontade de entender mais.**
 
 ---
 
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## Projetos
-
-Esta é uma parte que ainda está sendo construída.
-
-A ideia é que cada projeto aqui represente alguma coisa que aprendi — seja uma tecnologia nova, um conceito de programação ou uma tentativa de resolver um problema real.
+## 📂 Projetos
 
 <div align="center">
 
 ### 🚧 Em construção
 
-**Em breve, projetos e experimentos aparecerão aqui.**
+Estou começando a construir meu portfólio.
+
+Cada projeto será uma oportunidade de aprender algo novo, experimentar uma tecnologia ou resolver um problema.
 
 </div>
 
 ---
 
-## Além da programação
+## 📊 GitHub
 
 <div align="center">
 
-⚽ **Esportes**
-Disciplina, competição e trabalho em equipe.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D0D0D" />
 
-🔬 **Ciência**
-Curiosidade, investigação e pensamento crítico.
-
-📖 **Filosofia**
-Questionamento, lógica e busca por compreensão.
-
-💻 **Tecnologia**
-Transformar conhecimento em algo que possa ser construído.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D0D0D" />
 
 </div>
-
----
-
-## Uma ideia que resume minha jornada
-
-<div align="center">
-
-> **"Não preciso saber tudo para começar.**
->
-> **Preciso começar para descobrir o que ainda não sei."**
-
-</div>
-
----
-
-<div align="center">
-
-### Vamos construir alguma coisa.
 
 <br>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧩 Como estou construindo minha jornada
+
+<div align="center">
+
+```text
+        CURIOSIDADE
+             │
+             ▼
+         APRENDER
+             │
+             ▼
+          TESTAR
+             │
+             ▼
+           ERRAR
+             │
+             ▼
+         ENTENDER
+             │
+             ▼
+         MELHORAR
+             │
+             ▼
+          CONSTRUIR
+```
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Quero construir uma base sólida em programação e, com o tempo, transformar conhecimento em projetos reais.
+
+Não quero apenas aprender a escrever código.
+
+Quero aprender a **pensar como alguém que resolve problemas através da tecnologia**.
+
+---
+
+<div align="center">
+
+## Obrigado por visitar meu perfil.
+
+<br>
+
+<img src="https://img.shields.io/badge/KEEP%20LEARNING-FF0000?style=for-the-badge&logoColor=FFFFFF" />
+
+<br><br>
+
 <a href="https://github.com/SEU_USUARIO">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 </a>
 
@@ -203,6 +214,6 @@ Transformar conhecimento em algo que possa ser construído.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF0000&height=120&section=footer" width="100%"/>
 
 </div>
