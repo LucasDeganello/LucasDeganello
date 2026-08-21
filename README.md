@@ -50,16 +50,6 @@ Meu objetivo é aprender não apenas linguagens, mas também **lógica, resoluç
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
-
-### 🔧 Ferramentas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS%20Code-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-
-</div>
-
 ---
 
 ## 🌱 O que estou aprendendo
