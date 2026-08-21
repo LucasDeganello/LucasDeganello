@@ -35,20 +35,19 @@ Meu objetivo é aprender não apenas linguagens, mas também **lógica, resoluç
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
 ### 🌱 Estudando
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C%2B%2B-FF0000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
