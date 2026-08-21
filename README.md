@@ -5,14 +5,6 @@
 
 ---
 
-### 🧠 Sobre mim
-
-Sempre fui fascinado por entender como as coisas funcionam — seja um corpo humano durante o esporte, uma teoria científica, uma ideia filosófica ou um sistema de computador. Essa curiosidade me trouxe até a tecnologia e, hoje, estou mergulhando de cabeça na programação.
-
-Acredito que tecnologia e humanidades andam juntas, e quero construir soluções que façam sentido para as pessoas.
-
----
-
 ### 🛠️ Tecnologias que já utilizo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
