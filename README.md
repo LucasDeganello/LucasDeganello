@@ -1,4 +1,4 @@
-## Olá, me Lucas Deganello (Lukinhass) 👻
+## Olá, me Lucas Deganello 
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🚀 No início de uma jornada incrível pelo mundo da programação
